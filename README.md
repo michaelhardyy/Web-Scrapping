@@ -6,10 +6,9 @@ The scrape can return few or even zero real businesses. Sites change often and c
 
 ## What it does
 - Takes a postcode (4 digits)
-- Downloads one or more public directory result pages
 - Tries to pull business name, address, email, website links it can see in the HTML
 - Stores the list in `businesses_<postcode>.json`
-- Uses "N/A" when a field is missing
+
 
 ## Requirements
 - Python
