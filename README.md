@@ -33,14 +33,11 @@ Install packages:
 pip install -r requirements.txt
 ```
 
-## Run (basic)
+## Run
 ```
 python scraper.py 3000
 ```
-or the other version:
-```
-python scraper_v2.py 3000
-```
+
 
 If it works you get a file like:
 ```
