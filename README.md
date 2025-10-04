@@ -12,7 +12,7 @@ The scrape can return few or even zero real businesses. Sites change often and c
 
 ## Requirements
 - Python
-- Packages in `requirements.txt` (mainly requests, beautifulsoup4, lxml)
+- Packages in `requirements.txt` 
 
 ## Setup
 Clone and enter the folder:
