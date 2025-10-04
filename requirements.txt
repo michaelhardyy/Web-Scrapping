@@ -1,0 +1,5 @@
+# HTTP client
+requests
+
+# HTML parsing
+beautifulsoup4
